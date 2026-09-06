@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://5jm42ratmux"]
+
+[ext_resource type="Script" uid="uid://bk3xwse5auv4k" path="res://some_cell.gd" id="1_tcfch"]
+
+[node name="SomeCell" type="Node2D" unique_id=1754123059]
+script = ExtResource("1_tcfch")
+
+[node name="Polygon2D" type="Polygon2D" parent="." unique_id=935898155]
+position = Vector2(1, 1)
+color = Color(0.5019608, 0.5019608, 0.5019608, 1)
+polygon = PackedVector2Array(0, 0, 62, 0, 62, 62, 0, 62)

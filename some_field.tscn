@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://df64ii837mbwk"]
+
+[ext_resource type="Script" uid="uid://c650rqijnu5ih" path="res://some_field.gd" id="1_udhuw"]
+
+[node name="some_field" type="Node2D" unique_id=1166507640]
+script = ExtResource("1_udhuw")
+
+[node name="Label" type="Label" parent="." unique_id=1179767995]
+offset_right = 40.0
+offset_bottom = 23.0
