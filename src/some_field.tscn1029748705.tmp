@@ -10,6 +10,5 @@ offset_right = 40.0
 offset_bottom = 23.0
 
 [node name="Polygon2D" type="Polygon2D" parent="." unique_id=900380848]
-z_index = 1
 color = Color(0.9172005, 0.6722612, 0.33455667, 1)
-polygon = PackedVector2Array(0, -8, 8, 0, 0, 8, -8, 0)
+polygon = PackedVector2Array(0, -4, 4, 0, 0, 4, -4, 0)
